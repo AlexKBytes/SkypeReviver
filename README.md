@@ -9,3 +9,4 @@ Because I can, lol.
 - [ ]  Messaging
 - [X]  Video Calling
 - [X]  Calling
+For any questions, DM me on Reddit (u/AlexKotrotsos)
