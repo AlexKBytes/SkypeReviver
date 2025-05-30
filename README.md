@@ -13,7 +13,7 @@ Because I can, lol.
 # BEFORE BEGINNING :
 
 I would recommend NOT using SkypeReviver unless you can't wait for 
-SkypeReviver v.1.3 which should be released soon , potentially allowing you to keep the conversations
+SkypeReviver v.1.2 which should be released soon , potentially allowing you to keep the conversations
 you had before locally , if you had used Skype before its shutdown. I'm saying this just in case you really need your
 old conversations on Skype AND MS teams rather than just in Teams' servers. ;)
 
