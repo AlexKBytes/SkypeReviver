@@ -10,6 +10,14 @@ Because I can, lol.
 - [X]  Video Calling
 - [X]  Calling
 
+# BEFORE BEGINNING :
+
+I would recommend NOT using SkypeReviver unless you can't wait for
+
+SkypeReviver v.1.3 whick should be released soon , potentially allowing you to keep the conversations
+you had before , if you had used Skype before its shutdown. I'm saying this just in case you really need your
+old conversations. ;)
+
 # Instructions
 
 To use SkypeReviver, you need to have :
