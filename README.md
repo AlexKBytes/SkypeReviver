@@ -11,14 +11,22 @@ Because I can, lol.
 - [X]  Calling
 
 # Instructions
+
 To use SkypeReviver, you need to have :
+
 • Downloaded Skype version 8.138
+
 • Then run SkypeReviver and click both "Disable Skype Updater" and "Open Skype Installation Folder"
+
 # BEWARE : 
+
 Continuing to the next step WILL DELETE locally stored conversations,
 not from skype-teams' servers , just from your device.
+
 • In the two File Explorer windows that appeared , delete from both of them a folder named "Skype from desktop".
+
 • Disconnect from your WiFi and THEN install Skype version 8.138.
+
 • After installation, Skype should automatically open.
 Done! You should still be logged into your account if you had already connected woth your account before Skype's shutdown.
 If you hadn't ever logged in from this device , you *should* be able to login normally by following Skype's instructions.
