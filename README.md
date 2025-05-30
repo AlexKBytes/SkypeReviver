@@ -31,10 +31,14 @@ Continuing to the next step WILL DELETE locally stored conversations,
 not from skype-teams' servers , just from your device.
 
 • In the two File Explorer windows that appeared , delete from both of them a folder named "Skype from desktop".
+It is of UTMOST importance that you do this, since when a Skype installation contacts a specific MS server , it forever becomes bricked,
+even after patching through SkypeReviver, requiring you to completely remove it, including the 2 directories it made, which you can access (and delete) at any time by 
+clicking the "Open Skype Installation Folder" button.
 
-• Disconnect from your WiFi and THEN install Skype version 8.138.
+• Install Skype version 8.138.
 
 • After installation, Skype should automatically open.
+
 Done! You should still be logged into your account if you had already connected woth your account before Skype's shutdown.
 If you hadn't ever logged in from this device , you *should* be able to login normally by following Skype's instructions.
 
