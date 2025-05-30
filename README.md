@@ -17,9 +17,9 @@ YT Video Link 📺 : [Not uploaded yet!]
 
 - [X]  Calling
 
-- ❔  Dial Pad (Untested, if it works for you let me know through reddit, see bottom of page)
+  ❔  Dial Pad (Untested, if it works for you let me know through reddit, see bottom of page)
 
-- *️⃣ Presence (Active,Away,DND etc) (Works only when calling)
+  *️⃣  Presence (Active,Away,DND etc) (Works only when calling)
 
 - [ ]  Messaging
 
