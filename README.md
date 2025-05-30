@@ -13,11 +13,11 @@ YT Video Link 📺 : [Not uploaded yet!]
 
 # How functional is it?
 
-[X]  Video Calling
-[X]  Calling
-[?]  Dial Pad (Untested, if it works for you let me know through reddit, see bottom of page)
-🚧   Presence (Active,Away,DND etc) (Works only when calling)
-[ ]  Messaging
+- [X]  Video Calling
+- [X]  Calling
+- [?]  Dial Pad (Untested, if it works for you let me know through reddit, see bottom of page)
+  🚧   Presence (Active,Away,DND etc) (Works only when calling)
+- [ ]  Messaging
 
 # Prerequisites :
 
